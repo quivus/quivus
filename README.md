@@ -12,6 +12,7 @@ Take a look through my repositories to see my portfolio and projects.
 </p>
 
 ---
+
 <table>
   <tr>
     <td>
@@ -22,5 +23,9 @@ Take a look through my repositories to see my portfolio and projects.
     </td>
   </tr>
 </table>
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=quivus&theme=dark&hide_border=true&background=000000&sideNums=ff0033&fire=ff0033&currStreakLabel=ff0033&dates=ffffff" alt="Contribution Streak" width="60%" />
 
 </div>
